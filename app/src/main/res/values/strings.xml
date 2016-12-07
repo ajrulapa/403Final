@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSIS Course Lookup</string>
+    <string name="cs_label">CS</string>
+    <string name="cis_label">CIS</string>
+</resources>
